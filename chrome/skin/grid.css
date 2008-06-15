@@ -44,6 +44,7 @@
 
 .grid .preview img {
   width: 100%;
+  border: none;
 }
 
 .grid li span.title {
